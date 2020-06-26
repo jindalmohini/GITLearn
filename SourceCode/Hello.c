@@ -2,9 +2,7 @@
 void something()
 {
 }
-void useless()
-{
-}
+void something();
 int main()
 {
 	print("Hello World");
