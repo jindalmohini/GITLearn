@@ -8,6 +8,9 @@ int main()
 	print("Hello World");
         print ("hii");
 };
+void testingagain()
+{
+}
 void Testing()
 {
 	fergrtfg
