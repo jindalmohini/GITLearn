@@ -2,6 +2,9 @@
 void something()
 {
 }
+void useless()
+{
+}
 int main()
 {
 	print("Hello World");
